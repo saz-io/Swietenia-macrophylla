@@ -1,4 +1,4 @@
-### Swietenia-macrophylla phytochemical database ###
+##### Swietenia-macrophylla phytochemical database 
 ## _Swietenia macrophylla_, commonly known as mahogany, Honduran mahogany, Honduras mahogany, big-leaf mahogany, or West Indian mahogany, is a species of plant in the Meliaceae family. It is one of three species that yields genuine mahogany timber (Swietenia), the others being _Swietenia mahagoni_ and _Swietenia humili_
 
 **This repo aims to create a database of Swietenia macrophylla phytochemicals in sdf / mol format with their property analysis which includes Moleuclar weight,XLogP.number of hydrogen donors,Number of hydrogen acceptors,rot. bonds,ring count,PSA,PAIN,PubChem CID.**
