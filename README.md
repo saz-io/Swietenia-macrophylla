@@ -1,7 +1,6 @@
-#### Swietenia-macrophylla phytochemical database 
-![image](https://user-images.githubusercontent.com/80403765/110643489-28112d00-81da-11eb-8f30-0356ebc389e0.png)
+![image](https://user-images.githubusercontent.com/80403765/110656703-31a09200-81e6-11eb-9c08-fa98465ddd9b.png)
 
-## _Swietenia macrophylla_, commonly known as mahogany,is a species of plant in the Meliaceae family. It is one of three species that yields genuine mahogany timber (Swietenia),It is an endangered and medicinally important plant indigenous to tropical and subtropical regions of the World. _S. macrophylla_ has been widely used in folk medicine to treat various diseases.There are several studies in the literature that show _S. macrophylla_ has a wide range of pharmacological functions, including antimicrobial, anti-inflammatory, antioxidant, antimutagenic, anticancer, antitumor, and antidiabetic properties. Various other activities like anti-nociceptive, anti-infective, hypolipidemic, antidiarrhoeal, acaricidal, antiviral, antimalarial, antifeedant and heavy metal phytoremediation activity have also been reported. In view of the immense medicinal importance of S. macrophylla, this repo aimed at compiling all currently available phytochemcials of _S. macrophylla_ and their physico-chemical properties.
+**_Swietenia macrophylla_, commonly known as mahogany,is a species of plant in the Meliaceae family. It is one of three species that yields genuine mahogany timber (Swietenia),It is an endangered and medicinally important plant indigenous to tropical and subtropical regions of the World. _S. macrophylla_ has been widely used in folk medicine to treat various diseases.There are several studies in the literature that show _S. macrophylla_ has a wide range of pharmacological functions, including antimicrobial, anti-inflammatory, antioxidant, antimutagenic, anticancer, antitumor, and antidiabetic properties. Various other activities like anti-nociceptive, anti-infective, hypolipidemic, antidiarrhoeal, acaricidal, antiviral, antimalarial, antifeedant and heavy metal phytoremediation activity have also been reported. In view of the immense medicinal importance of S. macrophylla, this repo aimed at compiling all currently available phytochemcials of _S. macrophylla_ and their physico-chemical properties.**
 
 **This repo aims to create a database of Swietenia macrophylla phytochemicals in sdf / mol format with their physico-chemical properties analysis which includes**
   1. Moleuclar weight
@@ -15,7 +14,6 @@
   9. PubChem CID.
 
 # **_List of phytochemicals in current database_ :floppy_disk:**
-https://github.com/saz-io/Swietenia-macrophylla/blob/424fedd589ba8bbf726ac34b6ed5e50f16551ee4/ligands.rar
 
 - 1-Docosene.sdf                                                        
 - 1-Hexadecene.sdf                                                      
@@ -119,10 +117,14 @@ https://github.com/saz-io/Swietenia-macrophylla/blob/424fedd589ba8bbf726ac34b6ed
 - swietephragmin I.sdf                                                  
 - swietephragmin J.sdf                                                  
 - β-sitosterol.sdf 
+## Database and analysis
+> click to open
+- <a href="https://github.com/saz-io/Swietenia-macrophylla/blob/main/ligands.rar"><img src ="https://img.shields.io/badge/database-%20-green"></a>
+- <a href="https://github.com/saz-io/Swietenia-macrophylla/blob/main/Phytochemical%20Property%20Analysis.pdf"><img src ="https://img.shields.io/badge/physico--chemical%20properties%20analysis-%20-green"></a>
 
----------------------------------------------------------------------------------
-Follow at <a href="https://www.linkedin.com/in/sathiyajith-natarajan-5610b1158"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
----------------------------------------------------------------------------------
+## Follow at<a href="https://www.linkedin.com/in/sathiyajith-natarajan-5610b1158"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+
 
 
 > - please ignore the typos
