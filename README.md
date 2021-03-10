@@ -14,7 +14,7 @@
   8. PAIN
   9. PubChem CID.
 
-# **_List of phytochemcials in current database_ :floppy_disk: **
+# **_List of phytochemcials in current database_ :floppy_disk:**
 https://github.com/saz-io/Swietenia-macrophylla/blob/424fedd589ba8bbf726ac34b6ed5e50f16551ee4/ligands.rar
 
 1-Docosene.sdf                                                        
