@@ -3,7 +3,7 @@
 
 **This repo aims to create a database of Swietenia macrophylla phytochemicals in sdf / mol format with their property analysis which includes Moleuclar weight,XLogP.number of hydrogen donors,Number of hydrogen acceptors,rot. bonds,ring count,PSA,PAIN,PubChem CID.**
 
-# **_List of phytochemcials in current database_**
+# **_List of phytochemcials in current database_ :floppy_disk: **
 
 1-Docosene.sdf                                                        
 1-Hexadecene.sdf                                                      
@@ -109,4 +109,4 @@ swietephragmin J.sdf
 β-sitosterol.sdf 
 
 
->working on reference and citation  
+> :raising_hand: working on reference and citation  
