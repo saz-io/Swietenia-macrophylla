@@ -118,6 +118,38 @@
 - swietephragmin I.sdf                                                  
 - swietephragmin J.sdf                                                  
 - β-sitosterol.sdf 
+- Roxburghiadiol A
+- Swietenialide D
+- Secomahoganin
+- Heptadeca-9-ene-4,6-diyne-3,11-diol
+- (E)-Heptadeca-8-ene-4,6-diyne-3,10,11-triol
+- 10-Methoxyheptadeca-4,6-diyne-3,9-diol
+- Tetradeca-1,3-diyne-6,7,8-triol
+- 6,7,8,9-Tetraacetoxytetradeca-1,3-diyne
+- proceranolide
+- mahagonin
+- Methylbenzene (Toluene)
+- 2,4-methylhexane
+- 3-methylheptane
+- 1,4-dimethylcyclohexane
+- 2-methyldecane
+- 2,6-dimethylheptane
+- Trans-1-ethyl-3-methylcyclopentan
+- 1,1,2,2-tetramethylcyclopropane
+- Dicyclohexyl ester
+- Ethylcyclohexane
+- 2,3,4-trimethylhexane
+- 5-(1-methylethylidene)
+- 2-methylnonane
+- 2,7-dimethyloctane
+- 5-methyldecane
+- 2-methyltridecane
+- 4,8-dimethyltridecane
+- 2,6,11-triethyldodecane
+- 2-methylnonadecane
+- 2-butyl-1-octanolEther
+- 2-ethylhexylvinyl Tridecanol
+- 2-ethyl-2-methyl-2,6,10,15-tetramethyl-heptadec
 ## Database and analysis
 > click below to open
 - <a href="https://github.com/saz-io/Swietenia-macrophylla/blob/main/ligands.rar"><img src ="https://img.shields.io/badge/database-%20-green"></a>
