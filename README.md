@@ -152,7 +152,7 @@
 - 2-ethyl-2-methyl-2,6,10,15-tetramethyl-heptadec
 ## Database and analysis
 > click below to open
-- <a href="https://github.com/saz-io/Swietenia-macrophylla/blob/main/ligands.rar"><img src ="https://img.shields.io/badge/database-%20-green"></a>
+- <a href="https://github.com/saz-io/Swietenia-macrophylla/blob/149732fb4cfb1859ba4c18aeda348058f8dfb5d2/sdf.zip"><img src ="https://img.shields.io/badge/database-%20-green"></a>
 - <a href="https://github.com/saz-io/Swietenia-macrophylla/blob/main/Phytochemical%20Property%20Analysis.pdf"><img src ="https://img.shields.io/badge/physico--chemical%20properties%20analysis-%20-green"></a>
 
 ## Follow at<a href="https://www.linkedin.com/in/sathiyajith-natarajan-5610b1158"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
